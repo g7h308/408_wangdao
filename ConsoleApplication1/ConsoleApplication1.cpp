@@ -1,8 +1,9 @@
-﻿
-#include "SqList.h"
+﻿#include "SqList.h"
 #include "LinkList.h"
 #include "DoubleLinkList.h"
 #include "chapter2.h"
+#include "KMP.h"
+#include "BiTree.h"
 #include <vector>
 #include <stack>
 
@@ -10,7 +11,11 @@
 
 int main()
 {
-    char s = '2';
-    cout << s-'0'
+	int a[7] = { 4,2,6,7,5,3,1 };
+	BiTree root = NULL;
+	for (int i = 0; i < 7; i++) {
+		BiTree_InsertNode(root, a[i]);
+	}
+	LevelOrder(root);
 }
 

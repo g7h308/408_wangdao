@@ -145,8 +145,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="assistance.h" />
+    <ClInclude Include="BiTree.h" />
     <ClInclude Include="chapter2.h" />
     <ClInclude Include="DoubleLinkList.h" />
+    <ClInclude Include="KMP.h" />
     <ClInclude Include="LinkList.h" />
     <ClInclude Include="Queue.h" />
     <ClInclude Include="SqList.h" />
