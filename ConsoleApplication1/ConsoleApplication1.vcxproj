@@ -147,12 +147,14 @@
     <ClInclude Include="assistance.h" />
     <ClInclude Include="BiTree.h" />
     <ClInclude Include="chapter2.h" />
+    <ClInclude Include="chapter5.h" />
     <ClInclude Include="DoubleLinkList.h" />
     <ClInclude Include="KMP.h" />
     <ClInclude Include="LinkList.h" />
     <ClInclude Include="Queue.h" />
     <ClInclude Include="SqList.h" />
     <ClInclude Include="SqStack.h" />
+    <ClInclude Include="ThreadBiTree.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

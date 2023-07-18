@@ -1,6 +1,8 @@
 #pragma once
 #include "assistance.h"
 
+/*Á´Ê½¶þ²æÊ÷*/
+
 typedef struct BiTNode {
 	int data;
 	struct BiTNode* left, * right;
@@ -99,6 +101,9 @@ void LevelOrder(BiTree T) {
             q.push(p->right);
     }
 }
+
+
+
 
 
 

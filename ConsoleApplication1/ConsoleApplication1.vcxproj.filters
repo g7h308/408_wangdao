@@ -47,5 +47,11 @@
     <ClInclude Include="BiTree.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="ThreadBiTree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chapter5.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
