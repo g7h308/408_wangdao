@@ -149,6 +149,7 @@
     <ClInclude Include="chapter2.h" />
     <ClInclude Include="chapter5.h" />
     <ClInclude Include="DoubleLinkList.h" />
+    <ClInclude Include="Graph.h" />
     <ClInclude Include="KMP.h" />
     <ClInclude Include="LinkList.h" />
     <ClInclude Include="Queue.h" />
